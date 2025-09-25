@@ -57,6 +57,10 @@ Deliverables:
   - 已完成初版程式設計與說明整合
 
 - 2025-09-24 將專案所有內容 push 至 GitHub 遠端倉庫 winmelon/NCHU_HW1：
+prompt"
+接下來請幫我把專案內所有內容都push到
+https://github.com/winmelon/NCHU_HW1.git
+"
   1.  初始化 git 儲存庫
   2.  設定遠端 origin
   3.  將所有檔案加入暫存區
@@ -64,3 +68,10 @@ Deliverables:
   5.  push 至 GitHub master 分支
 
 - 2025-09-24 新增 README.md，說明專案架構、特色、CRISP-DM 步驟與使用方式。
+prompt"
+再來幫我新增一個readme.md 並且記得紀錄log.md最後在push一次
+"
+- 2025-09-25 產生 requirements.txt，記錄目前虛擬環境套件，並 push 至 GitHub。
+prompt"
+請幫我透過指令再加上requiretment.txt 在幫我push上去
+"
